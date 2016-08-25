@@ -1,0 +1,27 @@
+whosdatedwho
++--------------+-------------+------+-----+---------+-------+
+| Field        | Type        | Null | Key | Default | Extra |
++--------------+-------------+------+-----+---------+-------+
+| name1        | varchar(64) | YES  |     | NULL    |       |
+| name2        | varchar(64) | YES  |     | NULL    |       |
+| gender1      | varchar(8)  | YES  |     | NULL    |       |
+| gender2      | varchar(8)  | YES  |     | NULL    |       |
+| height1      | smallint(6) | YES  |     | NULL    |       |
+| height2      | smallint(6) | YES  |     | NULL    |       |
+| age1         | tinyint(4)  | YES  |     | NULL    |       |
+| age2         | tinyint(4)  | YES  |     | NULL    |       |
+| zodiac1      | varchar(16) | YES  |     | NULL    |       |
+| zodiac2      | varchar(16) | YES  |     | NULL    |       |
+| occupation1  | varchar(64) | YES  |     | NULL    |       |
+| occupation2  | varchar(64) | YES  |     | NULL    |       |
+| haircolor1   | varchar(32) | YES  |     | NULL    |       |
+| haircolor2   | varchar(32) | YES  |     | NULL    |       |
+| eyecolor1    | varchar(32) | YES  |     | NULL    |       |
+| eyecolor2    | varchar(32) | YES  |     | NULL    |       |
+| nationality1 | varchar(64) | YES  |     | NULL    |       |
+| nationality2 | varchar(64) | YES  |     | NULL    |       |
+| event        | varchar(64) | YES  |     | NULL    |       |
+| date         | date        | YES  |     | NULL    |       |
+| duration     | tinyint(4)  | YES  |     | NULL    |       |
+| score        | tinyint(4)  | YES  |     | NULL    |       |
++--------------+-------------+------+-----+---------+-------+
